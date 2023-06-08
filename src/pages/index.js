@@ -1,8 +1,13 @@
 import * as React from "react"
 
 export default function Home() {
-  return <div>
-      <h1>L2 Starter Sites</h1>
-      <p>Hello world!</p>
-    </div>
+  return (
+    <section>
+      <div>
+        <h2>Design</h2>
+        <h3>Develop & Deploy</h3>
+        <p>UX designer & web developer based in PH.</p>
+      </div>
+    </section>
+   )
 }
