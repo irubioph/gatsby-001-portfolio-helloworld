@@ -9,4 +9,9 @@
  */
 module.exports = {
   plugins: [],
+  siteMetadata: {
+    title: "IvanRubio.com",
+    description: 'I\'m WEb Developer based in PH',
+    copyright: 'This website si copyright 2023 - IvanRubio.com'
+  }
 }
