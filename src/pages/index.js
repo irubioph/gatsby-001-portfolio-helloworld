@@ -1,7 +1,8 @@
 import * as React from "react"
+import { Link } from "gatsby"
 import Layout from "../components/Layout"
 import * as styles from '../styles/home.module.css'
-import { Link } from "gatsby"
+
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
           <p>UX designer & web developer based in PH.</p>
           <Link className={styles.btn} to="/projects">My Portfolio Projects</Link>
         </div>
+        <img src="/home-ivan.webp" alt="Site Banner" style={{ maxWidth: '100%' }}/>
       </section>
     </Layout>
    )
