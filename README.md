@@ -98,3 +98,16 @@ The fastest way to combine your favorite tools and APIs to build the fastest sit
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 # gatsby-001-portfolio-helloworld
+
+
+
+Lesson List:
+(Starts at Lesson 2)
+
+* Lesson 2 - Starter Sites
+* Lesson 3 - Pages and Routes
+* Lesson 4 - Navbar and Links
+* Lesson 5 - Creating a Layout File
+* Lesson 6 - Styling Components
+* Lesson 7 - Static Files/Assets
+* Lesson 8 - Is explaining about GraphQL - No files touched!
