@@ -9,15 +9,7 @@
  */
 module.exports = {
   plugins: [
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        // The unique name for each instance
-        name: `notes`,
-        // Path to the directory
-        path: `${__dirname}/src/notes/`,
-      },
-    },
+    'gatsby-transformer-remark',
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -30,7 +22,7 @@ module.exports = {
   ],
   siteMetadata: {
     title: "IvanRubio.com",
-    description: 'I\'m WEb Developer based in PH',
-    copyright: 'This website si copyright 2023 - IvanRubio.com'
+    description: "I'm WEb Developer based in PH",
+    copyright: "This website si copyright 2023 - IvanRubio.com"
   }
 }
