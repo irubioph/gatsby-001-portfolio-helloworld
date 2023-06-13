@@ -22,7 +22,8 @@ module.exports = {
   ],
   siteMetadata: {
     title: "IvanRubio.com",
-    description: "I'm WEb Developer based in PH",
-    copyright: "This website si copyright 2023 - IvanRubio.com"
+    description: 'Web Dev Portfolio',
+    copyright: 'This website is copyright 2023 IvanRubio.com',
+    contact: 'me@ivanrubio.com'
   }
 }
