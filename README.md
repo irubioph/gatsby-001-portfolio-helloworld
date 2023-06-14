@@ -120,3 +120,4 @@ Lesson List:
 * Lesson 15 - Multiple Queries
 * Lesson 16 - Optimized Images
 * Lesson 17 - Featured Images
+* Lesson 18 - Template Components
