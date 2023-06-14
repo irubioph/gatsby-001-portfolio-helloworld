@@ -3,7 +3,7 @@ import Layout from '../components/Layout'
 import * as styles from '../styles/project-details.module.css'
 
 
-export default function ProjectDetails() {
+export default function ProjectDetails({data}) {
   return (
     <Layout>
         <div className={styles.details}>
