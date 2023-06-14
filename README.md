@@ -123,3 +123,7 @@ Lesson List:
 * Lesson 18 - Template Components
 * Lesson 19 - Generating Pages
 * Lesson 20 - Query Variables
+
+* Then the next lessons will be building and deploying to netlify with continous deployment.
+* I've also added the css that reflect the first work last Dec 2022- January 2023
+

@@ -4,13 +4,13 @@ import '../styles/global.css'
 
 export default function Layout({ children }) {
   return (
-    <div className='layout'>
+    <div className="layout">
         <Navbar />
-        <div className='content'>
+        <div className="content">
             { children }
         </div>
         <footer>
-            <p>Copyright 2023 &bull; IvanRubio</p>
+            <p>Copyright &copy; 2023 IvanRubio.com</p>
         </footer>
     </div>
   )
