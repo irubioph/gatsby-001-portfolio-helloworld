@@ -122,3 +122,4 @@ Lesson List:
 * Lesson 17 - Featured Images
 * Lesson 18 - Template Components
 * Lesson 19 - Generating Pages
+* Lesson 20 - Query Variables
