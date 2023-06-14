@@ -111,3 +111,12 @@ Lesson List:
 * Lesson 6 - Styling Components
 * Lesson 7 - Static Files/Assets
 * Lesson 8 - Is explaining about GraphQL - No files touched!
+* Lesson 9 - Site Metadata and Page Queries
+* Lesson 10 - Static Queries - userStaticQuery
+* Lesson 11 - Source Plugins
+* Lesson 12 - Markdown and Transformer Plugins
+* Lesson 13 - Fetching and Listing Data
+* Lesson 14 - Sorting / Ordering Inquiries
+* Lesson 15 - Multiple Queries
+* Lesson 16 - Optimized Images
+* Lesson 17 - Featured Images
